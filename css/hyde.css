@@ -162,7 +162,7 @@ footer {
 }
 
 .sidebar {
-  background-color: #49757a;
+  background-color: #003f5c;
   color: #000;
 }
 
@@ -181,7 +181,7 @@ color: #000;
 footer a,
 .content a,
 .related-posts li a:hover {
-  color: #0077b6;
+  color: #003f5c;
 }
 
 .read-more-link {
@@ -191,7 +191,7 @@ footer a,
 .read-more-link a {
   padding: 8px 16px;
   border: 1px solid;
-  border-color: #49757a;
+  border-color: #003f5c;
   border-radius: 4px;
 }
 
@@ -246,20 +246,20 @@ ul.posts {
   line-height: 1.5;
   text-align: center;
   text-decoration: none;
-  color: #49757a;
-  border: 1px solid #49757a;
+  color: #003f5c;
+  border: 1px solid #003f5c;
   border-radius: 0;
 }
 
 .pagination li a:hover {
-  color: #000;
-  background-color: #49757a;
+  color: #fff;
+  background-color: #003f5c;
   opacity: 0.75;
 }
 
 .pagination li.active a {
-  color: #000;
-  background-color: #49757a;
+  color: #fff;
+  background-color: #003f5c;
 }
 
 .pagination li.disabled a {
