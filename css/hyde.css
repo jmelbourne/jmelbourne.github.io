@@ -100,6 +100,14 @@ html {
   display: block;
   color: #000;
 }
+.sidebar-nav li {
+  margin-bottom: 0.5rem;
+}
+.sidebar-nav a {
+  display: block;
+  padding: 0.5rem 0;
+  font-size: 1rem;
+}
 a.sidebar-nav-item:hover,
 a.sidebar-nav-item:focus {
   text-decoration: underline;
@@ -147,7 +155,7 @@ footer {
 }
 
 .img-circle {
-  border-radius: 0%;
+  border-radius: 50%;
 }
 
 .img-headshot {
